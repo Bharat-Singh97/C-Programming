@@ -2,7 +2,7 @@
 //perimeter of rectangle = 2(l+b) and perimter of triangle = a+b+c
 #include<stdio.h>
 
-int main(){
+int main() {
     int a,b;  // a = length ,b = bredth
     printf("Enter length and bredth of the rectangle :");
     scanf("%d %d", &a , &b);
