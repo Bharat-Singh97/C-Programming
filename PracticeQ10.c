@@ -6,9 +6,11 @@ int main () {
     printf("Enter a number a ,b :");
     scanf(" %d%d", &a , &b);
     
-    if(a<b)
+    if(a<b) {
          printf(" a is smallest number :%d", a);
-    else 
+    }
+    else {
          printf("b is smallest : %d", b);
+    }
     return 0;
 }
