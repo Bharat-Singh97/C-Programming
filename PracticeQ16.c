@@ -27,10 +27,10 @@ while (n > 0)
 }
 if (temp == sum)
 {
-    printf("Armstrong number : \n");
+    printf(" %d  is Armstrong number : \n" , temp);
 }
 else {
-    printf("Not armstrong number : \n");
+    printf(" %d isNot armstrong number : \n" , temp);
 }
 return 0;
 
