@@ -4,7 +4,8 @@ itsalso print hello world  which time you want to print you write in printf hell
 for reverrse counting we use i=10; i>=1;i-- or i-1 nad i++ or i+1 its print reverse one 10 to 1
  
   decrement --i or ++i(pre increment increse then use i =1 then print i output is 2,2)
- decrement i-- or i++(posr increment use then increment output first incre or decre then i print 1 ,2)   */
+ decrement i-- or i++(posr increment use then increment output first incre or decre then i print 1 ,2) 
+ if in for loop (int i=0;  ; i++) its play infinite loop its not no when we stop  orterminate this program its run till computer memory not full and crash to be carefull when you use loops   */
 #include<stdio.h>
  
  int main() {
