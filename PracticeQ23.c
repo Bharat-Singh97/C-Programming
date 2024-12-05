@@ -1,5 +1,5 @@
 /*Keep taking numbers as input from user until user enters an odd number 
-most loop control by user input see each step care fully do while loop*/
+most loop control by user input see each step care fully do while loop */
 
 #include<stdio.h>
 
