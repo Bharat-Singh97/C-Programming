@@ -11,6 +11,6 @@ void printHello() { // function as function work like print
 }
  // function call for fun use
  int main () {
-    printHello(); // calling statement under the main fun
+    printHello(); //calling statement under the main fun
     return 0;
  }
