@@ -14,3 +14,19 @@ void printHello() { // function as function work like print
     printHello(); //calling statement under the main fun
     return 0;
  }
+
+ /* properties of function 
+    1. Execution always start from main
+    2. A function gets called directly or indirectly from main
+    3. There can be multiple functions in a program
+    
+    Function types 
+    1. Library function
+     Special functions inbuilt in C
+     ex. scanf(), printf()
+    2. User defoned 
+       declared & defined by programmer or user
+       
+    Passing Arguments 
+    functions can tale value(called parameter) & give some value(Clled return value)
+       */
