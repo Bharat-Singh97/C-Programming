@@ -6,7 +6,7 @@
     {
         if (i % 2 == 0)
         {
-            continue; // its skip all even number if we put != then it skip all odd number
+            continue; //its skip all even number if we put != then it skip all odd number
         }
         
         
