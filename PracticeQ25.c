@@ -7,7 +7,7 @@
     {
         if (i == 6)
         {
-            continue; // its skip 6
+            continue; //its skip 6
         }
         
         
