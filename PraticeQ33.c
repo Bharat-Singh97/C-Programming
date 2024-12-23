@@ -1,5 +1,5 @@
 #include<stdio.h>
- //declaration/prototype step 1
+ //declaration/prototype step 1 
  void printHello();
  
  int main(){
