@@ -1,4 +1,4 @@
-/* Search  on what a "nested loop" i & print this patter using it 
+/* Search on what a "nested loop" i & print this pattern using it 
 *****
 *****
 *****
