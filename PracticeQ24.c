@@ -1,4 +1,4 @@
-/* Keep taking numbers as input from user until user enters a numbers which is multiple if 7
+/* Keep taking numbers as input from user until user enters a numbers which is multiple of 7
 break statement use when we want to exit the loop , break statement exit us from nested loop so use carefully*/
 #include<stdio.h> 
 
