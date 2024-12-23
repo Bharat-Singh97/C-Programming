@@ -1,4 +1,4 @@
-// Write a program to print prime number in range   
+// Write a program to print prime number in range    
 #include<stdio.h>
   
     int isPrime(int n) { // function defination check number is prime or not
