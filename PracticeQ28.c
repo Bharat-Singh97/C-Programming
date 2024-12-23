@@ -1,4 +1,4 @@
-// print reverse of the table of a number n
+// print reverse of the table of a number n 
 #include<stdio.h>
 
  int main () {
