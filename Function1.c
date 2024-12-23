@@ -1,4 +1,4 @@
-// Write two  function first print Hello & second print Good bye
+// Write two  function first print Hello & second print Good bye 
 
 #include<stdio.h>
 
