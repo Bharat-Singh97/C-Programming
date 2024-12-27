@@ -14,7 +14,7 @@ int main() {
           break;
        }
        
-   } while (1);
+   } while (1); // its return always true
    
     printf("Your program is successfully Executed");
    
