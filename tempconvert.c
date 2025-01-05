@@ -6,7 +6,7 @@ Take the celsius temperature to be 20.5.*/
 
 #include <stdio.h>
 
-int main()  {
+int main() {
 	float celsius = 20.5;
 	printf("%f",(celsius * 9/5) + 32);// temperature converter
 
